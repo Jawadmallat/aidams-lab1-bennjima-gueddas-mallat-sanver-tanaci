@@ -56,12 +56,6 @@ Sidebar filters (dataset → region → country → company → capacity) feed f
 (colour by region/country/owner or exposure, plus density), **Exploration** (capacity,
 age, capacity-vs-exposure), **Companies**, **Data** (table + CSV download).
 
-## Notes / TODO
-
-- [x] Paste the Streamlit Cloud URL above and in the submission email
-- [ ] `Owner` is free text — subsidiaries split company totals; `Parent (English)` would consolidate
-- [ ] Raw data is currently tracked in git history (see below) — repo is now **public**, so this data is publicly visible
-
 ## Reproducibility
 
 Python 3.13 · dependencies pinned in `pyproject.toml` / `uv.lock` · `data/processed/` is
