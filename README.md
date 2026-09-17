@@ -3,8 +3,8 @@
 Geospatial analysis of the Global Iron and Steel Tracker, enriched with LitPop
 exposure data, plus a Streamlit dashboard.
 
-**Group:** Adem Ben Njima · Kenza Gueddas · Jawad Mallat · Erdem Sanver · Deha Tanaci
-**Repo:** https://github.com/Jawadmallat/aidams-lab1-bennjima-gueddas-mallat-sanver-tanaci
+**Group:** Adem Ben Njima · Kenza Gueddas · Jawad Mallat · Erdem Sanver · Deha Tanaci\
+**Repo:** https://github.com/Jawadmallat/aidams-lab1-bennjima-gueddas-mallat-sanver-tanaci\
 **Streamlit Cloud:** https://g4fml6lixyiue9qxqmax7r.streamlit.app/
 
 ---
