@@ -1,0 +1,13 @@
+key,value
+source_plants,Plant-level_data_Global_Iron_and_Steel_Tracker_June_2026_V1.xlsx
+source_litpop,"LitPop_pc_300_arcsec_CHN_v1.hdf5, LitPop_pc_300_arcsec_IND_v1.hdf5, LitPop_pc_300_arcsec_JPN_v1.hdf5"
+litpop_ref_year,2018
+litpop_fin_mode,pc (produced capital)
+litpop_value_unit,USD
+litpop_resolution,300 arcsec (~10 km)
+litpop_coverage,"China, India, Japan"
+neighbourhood_radius_km,25
+capacity_definition,sum of operating crude steel units (ttpa)
+n_plants_global,1293
+n_plants_litpop,613
+n_companies,535

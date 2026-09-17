@@ -1,0 +1,53 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+build/
+dist/
+
+# ---- Virtual environments (managed by uv) ----
+.venv/
+venv/
+env/
+
+# ---- uv ----
+# uv.lock IS committed on purpose: it pins exact versions for reproducibility.
+.uv-cache/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.jupyter/
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
+
+# ---- Caches / tooling ----
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipython/
+
+# ---- OS ----
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# ---- Editors ----
+.vscode/
+.idea/
+*.swp
+
+# ---- Raw input data (large, redistributable from source) ----
+# GEM Global Iron and Steel Tracker (.xlsx) and LitPop exposure grids (.hdf5).
+# Re-download per the links in README.md rather than committing them.
+gem-data/
+litpop/
+*.hdf5
+
+# ---- Processed exports ----
+# data/processed/ IS committed: the Streamlit app needs these files to run
+# on Streamlit Cloud. They are small (CSV/Parquet). Nothing excluded here.
