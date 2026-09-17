@@ -13,7 +13,7 @@ exposure data, plus a Streamlit dashboard.
 
 ```bash
 uv sync                          # create .venv and install dependencies
-uv run jupyter lab lab_1.ipynb   # run the notebook (writes data/processed/)
+uv run jupyter lab lab_1.ipynb   # run the notebook (writes data/processed/) (or run the cells individually/"Run all")
 uv run streamlit run app.py      # launch the dashboard
 ```
 
