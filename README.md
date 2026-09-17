@@ -5,7 +5,7 @@ exposure data, plus a Streamlit dashboard.
 
 **Group:** Ben Njima · Gueddas · Mallat · Sanver · Tanaci
 **Repo:** https://github.com/Jawadmallat/aidams-lab1-bennjima-gueddas-mallat-sanver-tanaci
-**Streamlit Cloud:** _TODO — paste deployed URL_
+**Streamlit Cloud:** https://g4fml6lixyiue9qxqmax7r.streamlit.app/
 
 ---
 
@@ -58,9 +58,9 @@ age, capacity-vs-exposure), **Companies**, **Data** (table + CSV download).
 
 ## Notes / TODO
 
-- [ ] Paste the Streamlit Cloud URL above and in the submission email
+- [x] Paste the Streamlit Cloud URL above and in the submission email
 - [ ] `Owner` is free text — subsidiaries split company totals; `Parent (English)` would consolidate
-- [ ] Raw data is currently tracked in git history (see below)
+- [ ] Raw data is currently tracked in git history (see below) — repo is now **public**, so this data is publicly visible
 
 ## Reproducibility
 
